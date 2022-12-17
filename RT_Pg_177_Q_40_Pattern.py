@@ -4,3 +4,10 @@ for i in range(0, 5):
     else:
         x = "*\t*"
         print(x.expandtabs(8))
+
+# Answer
+# * * * * *
+# *       *
+# *       *
+# *       *
+# * * * * *
